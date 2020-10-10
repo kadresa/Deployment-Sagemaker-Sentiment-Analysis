@@ -1,5 +1,10 @@
 # SageMaker Deployment Project
-#Uploaded during the Bertelsman scholarship process
+
+#Uploaded during the Bertelsman scholarship process.
+
+#♦The test review has been processed correctly and stored in the test_data variable.
+
+
 
 
 ## About
